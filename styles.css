@@ -1,0 +1,27 @@
+body {
+    background-color: #FFDAAF;
+    font-family: "Trochut";
+    font-size: 1.45rem;
+}
+
+ul {list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {display: inline;
+    font-size: 18px;
+}
+
+hr {
+    border-style: none;
+}
+
+.index {
+    padding-left:5%;
+    padding-right: 5%;
+}
+
+hr {
+    border: dotted #9E7676 6px; 
+}
